@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<head>
+    <meta charset="utf-8"></meta>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <style>
+        body {
+            background-color: #eee;
+        }
+        div.fa-stack > i.fa {
+              filter:alpha(opacity=75);  
+              -moz-opacity:0.75;  
+              -khtml-opacity: 0.75;  
+              opacity: 0.75;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-tencent-weibo fa-stack-1x fa-inverse"></i>
+    </div>
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+    </div>
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+    </div>
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x  fa-inverse"></i>
+        <i class="fa fa-facebook fa-stack-1x"></i>
+    </div>
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+    </div>
+    <div class="fa-stack">
+
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+    </div>
+</body>
